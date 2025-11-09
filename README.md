@@ -19,6 +19,5 @@ https://drive.google.com/file/d/1pyU764_sn7f0ooff7xPYDJzuERuaGZr5/view?usp=drive
 # How to steup
 1) In pgAdmin, create DB `studentsdb`.  
 2) Open Query Tool on `studentsdb`, run everything in `db_setup.sql`.  
-3) Python:
-```bash
+3) Go into terminal and cd to the correct folder with this code, this folder is named 'COMP3005_A3', then run 'python main.py', then you can check the output for the demo, you can alter the demo, and go into pgAdmin 4 to check the updated table.
 pip install -r requirements.txt
