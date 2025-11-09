@@ -9,7 +9,7 @@ DB_HOST = "localhost"
 DB_PORT = 5432
 DB_NAME = "studentsdb"
 DB_USER = "postgres"
-DB_PASS = "li4165651234"
+DB_PASS = "inputyourownpass" # NOTE: replace with your own PostgreSQL password when running locally
 
 def connect():
     """Create and return a DB connection!"""

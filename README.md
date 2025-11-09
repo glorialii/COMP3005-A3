@@ -13,6 +13,9 @@ Implements CRUD against a `students` table with:
 - `deleteStudent(student_id)`
 (As reqrd by the assignment)
 
+# Vid link
+https://drive.google.com/file/d/1pyU764_sn7f0ooff7xPYDJzuERuaGZr5/view?usp=drive_link
+
 # How to steup
 1) In pgAdmin, create DB `studentsdb`.  
 2) Open Query Tool on `studentsdb`, run everything in `db_setup.sql`.  
